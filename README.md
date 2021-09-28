@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to program in C and R. I’m a beginner, I study software development.
 - 💞️ I’m not looking to collaborate on something at this moment, but I’m open to listening to
 proposals that make me grow and challenge me at the height of my abilities.
-- 📫 You can contact me at prozas.ar@gmail.com (preferably in Spanish)
+- 📫 You can contact me at pavlowzky@gmail.com (preferably in Spanish)
 
 <!---
 pavlowzky/pavlowzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
